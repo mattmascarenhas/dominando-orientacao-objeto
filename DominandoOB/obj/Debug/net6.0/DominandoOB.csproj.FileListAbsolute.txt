@@ -1,0 +1,15 @@
+D:\CSharp\DominandoOB\DominandoOB\bin\Debug\net6.0\DominandoOB.exe
+D:\CSharp\DominandoOB\DominandoOB\bin\Debug\net6.0\DominandoOB.deps.json
+D:\CSharp\DominandoOB\DominandoOB\bin\Debug\net6.0\DominandoOB.runtimeconfig.json
+D:\CSharp\DominandoOB\DominandoOB\bin\Debug\net6.0\DominandoOB.dll
+D:\CSharp\DominandoOB\DominandoOB\bin\Debug\net6.0\DominandoOB.pdb
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.csproj.AssemblyReference.cache
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.AssemblyInfoInputs.cache
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.AssemblyInfo.cs
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.csproj.CoreCompileInputs.cache
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.dll
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\refint\DominandoOB.dll
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.pdb
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\DominandoOB.genruntimeconfig.cache
+D:\CSharp\DominandoOB\DominandoOB\obj\Debug\net6.0\ref\DominandoOB.dll
